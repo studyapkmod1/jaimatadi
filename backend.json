@@ -1,8 +1,12 @@
-[ {
-      "id": "01",
-      "name": "sciencemagnet",
-      "api": "sciencemagnetapi.classx.co.in",
-     
-    },
-
+[
+  {
+    "id": "01",
+    "name": "sciencemagnet",
+    "api": "sciencemagnetapi.classx.co.in"
+  },
+  {
+    "id": "02",
+    "name": "Vidyagram",
+    "api": "https://armathsapi.akamai.net.in"
+  }
 ]
