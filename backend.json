@@ -8,5 +8,10 @@
     "id": "02",
     "name": "Vidyagram",
     "api": "https://armathsapi.akamai.net.in"
+  },
+  {
+    "id": "03",
+    "name": "gyan gs",
+    "api": "https://gyanbinduapi.akamai.net.in/"
   }
 ]
